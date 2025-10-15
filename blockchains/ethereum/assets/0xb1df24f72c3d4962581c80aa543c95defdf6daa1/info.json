@@ -1,0 +1,11 @@
+{
+  "name": "Block Hub Coin",
+  "symbol": "BHC",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Block Hub Coin (BHC) is a limited-supply token of 19 million total supply, representing the digital asset ecosystem built by Block Hub Community.",
+  "website": "https://blockhubcoin.com",
+  "explorer": "https://etherscan.io/token/0xb1df24f72c3d4962581c80aa543c95defdf6daa1",
+  "status": "active",
+  "id": "0xb1df24f72c3d4962581c80aa543c95defdf6daa1"
+}
