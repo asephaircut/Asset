@@ -1,0 +1,25 @@
+{
+  "name": "Block Hub Coin",
+  "symbol": "BHC",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Block Hub Coin (BHC) is a community-driven token for innovation and development within the BHC ecosystem.",
+  "website": "https://bhc.co.id",
+  "explorer": "https://etherscan.io/token/0xB1dF24F72C3d4962581c80aa543C95DeFdf6DAa1",
+  "status": "active",
+  "id": "0xB1dF24F72C3d4962581c80aa543C95DeFdf6DAa1",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/bhcofficial"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/bhcofficial"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/asephair/Asset"
+    }
+  ]
+}
