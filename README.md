@@ -1,2 +1,2 @@
-# Asset
+# asset
 Block Hub Coin Asset
